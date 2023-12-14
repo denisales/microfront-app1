@@ -8,7 +8,7 @@ function About() {
     <h1>About App1</h1>
       <div className="card">
       <br/>
-      <Link to="/app1/">Home App1</Link>
+      <Link to="/">Home App1</Link>
       </div>
     </>
   )
